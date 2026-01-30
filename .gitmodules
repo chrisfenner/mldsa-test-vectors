@@ -1,0 +1,3 @@
+[submodule "pqc-kat"]
+	path = pqc-kat
+	url = https://github.com/post-quantum-cryptography/KAT
